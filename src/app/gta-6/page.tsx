@@ -121,7 +121,7 @@ export default function GtaSixPage() {
   return (
     <main className="min-h-screen bg-space-950 text-soft-white">
       {/* ── FAN DISCLAIMER BANNER ──────────────────────────────────────── */}
-      <div className="relative z-50 bg-space-800/90 border-b border-sunset-orange/40 backdrop-blur-md">
+      <div className="relative z-30 mt-16 sm:mt-20 bg-space-800/90 border-b border-sunset-orange/40 backdrop-blur-md">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex items-start sm:items-center gap-3">
           <AlertTriangle className="w-5 h-5 text-sunset-orange shrink-0 mt-0.5 sm:mt-0" aria-hidden="true" />
           <p className="text-xs sm:text-sm text-chrome-silver leading-relaxed">
