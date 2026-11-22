@@ -324,7 +324,7 @@ export function Navbar() {
                     <PlatformIcon platform="tiktok" className="w-4 h-4 fill-current" />
                   </a>
                   <a
-                    href="https://www.instagram.com/bitwizardsclips/?hl=en"
+                    href="https://www.instagram.com/bitwizardsclipss/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 rounded-lg bg-space-900 border border-chrome-silver/10 hover:border-pink-500/50 hover:text-pink-500 flex items-center justify-center transition-all hover:scale-110"

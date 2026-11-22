@@ -60,8 +60,8 @@ export const socialLinksConfig: Record<PlatformId, SocialPlatformConfig> = {
   instagram: {
     id: "instagram",
     name: "Instagram",
-    handle: "@bitwizardsclips",
-    url: "https://www.instagram.com/bitwizardsclips/?hl=en",
+    handle: "@bitwizardsclipss",
+    url: "https://www.instagram.com/bitwizardsclipss/",
     isVerified: true,
     color: "#E1306C",
     secondaryColor: "#FF8A45",
