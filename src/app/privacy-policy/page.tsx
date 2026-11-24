@@ -62,7 +62,7 @@ You can control cookie preferences through your browser settings. Disabling cert
     content: `Our website may integrate or link to the following third-party services:
 
 - **Google Fonts** — For typography rendering
-- **Social Media Platforms** — YouTube, Facebook, Instagram, TikTok, LinkedIn, Threads, X (Twitter), and Rumble. Each has their own privacy policy governing data collected through their platforms.
+- **Social Media Platforms** — YouTube, Facebook, WhatsApp, TikTok, LinkedIn, Threads, X (Twitter), and Rumble. Each has their own privacy policy governing data collected through their platforms.
 - **Email Service Provider** — When our contact form is active, messages may be processed through a third-party email delivery service (e.g. Resend or SendGrid). We do not store form submissions on our servers beyond what is necessary to respond.
 
 Clicking external links from our website will take you to third-party sites governed by their own privacy policies. We are not responsible for the data practices of external websites.`,

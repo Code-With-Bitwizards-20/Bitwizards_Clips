@@ -3,7 +3,7 @@ export const siteConfig = {
   username: "@BitWizardsClips",
   tagline: "One World. Every Epic Gaming Moment.",
   description:
-    "BitWizards Clips — the futuristic gaming media network delivering premier gaming highlights, cinematic GTA VI fan content, viral gaming moments, and creator partnerships across 8 global platforms: YouTube, TikTok, Instagram, Facebook, X, LinkedIn, Threads, and Rumble.",
+    "BitWizards Clips — the futuristic gaming media network delivering premier gaming highlights, cinematic GTA VI fan content, viral gaming moments, and creator partnerships across 8 global platforms: YouTube, TikTok, WhatsApp, Facebook, X, LinkedIn, Threads, and Rumble.",
   url: "https://bitwizardsclips.com",
   email: "bitwizardsclips@gmail.com",
   phone: "+92-349-627-4499",

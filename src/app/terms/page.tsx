@@ -22,7 +22,7 @@ These Terms apply to all visitors, users, and others who access or use the Websi
   {
     id: "site-description",
     title: "2. Website Description",
-    content: `BitWizards Clips is an independent gaming media and entertainment brand that curates, edits, and distributes gaming highlights across multiple social media platforms, including YouTube, Facebook, Instagram, TikTok, LinkedIn, Threads, X (Twitter), and Rumble.
+    content: `BitWizards Clips is an independent gaming media and entertainment brand that curates, edits, and distributes gaming highlights across multiple social media platforms, including YouTube, Facebook, WhatsApp, TikTok, LinkedIn, Threads, X (Twitter), and Rumble.
 
 The Website serves as a hub for our brand identity, creator partnership programme, social media network information, and audience communications. BitWizards Clips is not a game developer, game publisher, or affiliated with any game studio.`,
   },

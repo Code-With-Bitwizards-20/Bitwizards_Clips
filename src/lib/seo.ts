@@ -106,7 +106,7 @@ export function generateOrganizationSchema() {
       "https://x.com/BitWizardsClip",
       "https://youtube.com/channel/UCwiaM-TlEote_GaM_QqOygw",
       "https://rumble.com/user/BitWizardsClips",
-      "https://www.instagram.com/bitwizardsclipss/",
+      siteConfig.whatsappUrl,
       "https://www.threads.com/@bitwizardsclips",
     ],
   };

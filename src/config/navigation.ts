@@ -44,7 +44,7 @@ export const footerNavItems = {
   ],
   socials: [
     { title: "YouTube Channel", href: "/socials/youtube" },
-    { title: "Instagram Network", href: "/socials/instagram" },
+    { title: "WhatsApp Channel", href: "/socials/whatsapp" },
     { title: "TikTok Hub", href: "/socials/tiktok" },
     { title: "X / Twitter", href: "/socials/x" },
     { title: "Facebook Page", href: "/socials/facebook" },

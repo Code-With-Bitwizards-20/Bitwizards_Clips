@@ -8,7 +8,7 @@ export interface NavItem {
 export type PlatformId =
   | 'youtube'
   | 'facebook'
-  | 'instagram'
+  | 'whatsapp'
   | 'tiktok'
   | 'linkedin'
   | 'threads'

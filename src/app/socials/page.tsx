@@ -9,7 +9,7 @@ import { PlatformCard } from "@/components/cards/PlatformCard";
 export const metadata: Metadata = constructMetadata({
   title: "Social Media Network | BitWizards Clips",
   description:
-    "Explore BitWizards Clips across 8 global platforms — YouTube, TikTok, Instagram, Facebook, X, LinkedIn, Threads, and Rumble. One vision. Every epic gaming moment.",
+    "Explore BitWizards Clips across 8 global platforms — YouTube, TikTok, WhatsApp, Facebook, X, LinkedIn, Threads, and Rumble. One vision. Every epic gaming moment.",
   path: "/socials",
   keywords: ["social media", "gaming network", "BitWizards Clips", "YouTube", "TikTok", "gaming channels"],
 });
@@ -121,7 +121,7 @@ export default function SocialsPage() {
                 ⚡ Global Network Fully Operational — All 8 Channels Active
               </h3>
               <p className="text-chrome-silver text-sm leading-relaxed mb-4">
-                BitWizards Clips is officially broadcasting across all 8 major global entertainment platforms. From 4K episodic series on YouTube and viral stunt clips on TikTok and Instagram Reels, to industry thought leadership on LinkedIn and raw gameplay archival on Rumble. Follow our channels below for instant notifications.
+                BitWizards Clips is officially broadcasting across all 8 major global entertainment platforms. From 4K episodic series on YouTube and viral stunt clips on TikTok, to direct VIP community drops on WhatsApp, industry thought leadership on LinkedIn, and raw gameplay archival on Rumble. Follow our channels below for instant notifications.
               </p>
               <div className="flex flex-wrap gap-3">
                 {platforms.map((platform) => (
